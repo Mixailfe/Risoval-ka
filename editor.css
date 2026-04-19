@@ -1,0 +1,50 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.cell{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(8, 100px);
+}
+#circleBtn{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 50%; 
+}
+#curcleBtn{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 50%; 
+}
+#corcleBtn{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%; 
+}
+#carcleBtn{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 50%; 
+}
+#cyrcleBtn{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 50%; 
+}
