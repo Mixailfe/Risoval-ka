@@ -1,0 +1,37 @@
+/* Не забудь подключить нужные шрифты. Удачи в разработке! */
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://images.steamusercontent.com/ugc/1602673530406218260/70BEF6474AC51DE713533DE955425E3FF93DC5DC/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+    background-size:cover;
+     font-family: "Tiny5", sans-serif;
+}
+
+.D {
+  width: 450px;
+  background-color: wheat;
+  position: absolute;
+  left: 30%;
+  top: 30%;
+
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+  .button {
+    text-decoration: none; /* убрать подчеркивание */
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+   
+   
+}
+  
+
+
